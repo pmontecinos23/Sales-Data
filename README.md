@@ -1,10 +1,15 @@
 # Project 1 - Part 1
 Paul Montecinos
 
+
 ## Loading Data
 
-# Data Cleaning
 
-# Exploratory Visuals
+## Data Cleaning
 
-# Explanatory Visuals
+
+## Exploratory Visuals
+
+
+## Explanatory Visuals
+
